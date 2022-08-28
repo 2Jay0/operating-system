@@ -1,5 +1,5 @@
 # Operating-system
-2021 - pintos project
+> 2021 - pintos project
 
 ## Duration
 > 2021.09. ~ 2021.12.
